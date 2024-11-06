@@ -38,4 +38,5 @@ for (let i = 0; i < sequence.length; i++ ){
 }
 
 // The contents in my array are now numbers 1-7 as the last three values were removed from array
-
+let myString = ("Cowabungaa!");
+    console.log(myString.length);
